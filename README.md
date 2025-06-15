@@ -6,8 +6,8 @@ By leveraging this segmentation, ABCDEats aims to refine its marketing, retentio
 - Analyze customer behavior and demographics across three cities.
 - Identify key patterns and trends in customer ordering habits.
 - Segment customers using multiple perspectives, including:
-- Value-based segmentation (e.g., total spend, order frequency)
-- Behavioral segmentation (e.g., cuisine preferences, order time)
-- Demographic segmentation (e.g., age, gender, income)
+- Value-based segmentation
+- Behavioral segmentation
+- Demographic segmentation
 - Integrate these segmentations into a final unified model.
 - Provide actionable insights to guide ABCDEats' marketing strategy.
